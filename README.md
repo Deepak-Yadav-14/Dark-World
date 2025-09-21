@@ -51,7 +51,7 @@ In **Dark World**, darkness has consumed the world, and you play as **Lumine**, 
 
 ### Download Game
 
-[![Download Dark World](https://img.shields.io/badge/Download-Dark%20World-blue?style=for-the-badge&logo=download)](https://github.com/Deepak-Yadav-14/dark-world/releases/latest/download/DarkWorld.zip)
+[![Download Dark World](https://img.shields.io/badge/Download-Dark%20World-blue?style=for-the-badge&logo=download)](https://github.com/Deepak-Yadav-14/Dark-World/releases/tag/v1.0.0)
 
 ### Installation Instructions
 
