@@ -1,0 +1,41 @@
+{
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.gitmodules": true,
+        "**/*.booproj": true,
+        "**/*.pidb": true,
+        "**/*.suo": true,
+        "**/*.user": true,
+        "**/*.userprefs": true,
+        "**/*.unityproj": true,
+        "**/*.dll": true,
+        "**/*.exe": true,
+        "**/.*": true,
+        "**/.vscode": false,
+        "Library/**": true,
+        "Logs/**": true,
+        "Temp/**": true,
+        "obj/**": true
+    },
+    "search.exclude": {
+        "Library/**": true,
+        "Logs/**": true,
+        "Temp/**": true,
+        "obj/**": true
+    },
+    "omnisharp.defaultLaunchSolution": "Dark-World.sln",
+    "omnisharp.useGlobalMono": "never",
+    "files.associations": {
+        "*.cs": "csharp"
+    },
+    "csharp.format.enable": true,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "unity.logLevel": "info",
+    "unity.enableCodeLens": true,
+    "dotnet.preferCSharpExtension": true
+}

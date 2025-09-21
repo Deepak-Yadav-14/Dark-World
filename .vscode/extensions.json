@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-dotnettools.csharp",
+        "visualstudiotoolsforunity.vstuc",
+        "ms-vscode.vscode-json",
+        "redhat.vscode-yaml",
+        "ms-vscode.markdown-checkbox",
+        "yzhang.markdown-all-in-one",
+        "gruntfuggly.todo-tree",
+        "streetsidesoftware.code-spell-checker",
+        "ms-vscode.vscode-typescript-next",
+        "bradlc.vscode-tailwindcss"
+    ]
+}
