@@ -10,7 +10,7 @@ In **Dark World**, darkness has consumed the world, and you play as **Lumine**, 
 
 ## 🎮 Game Demo Youtube
 
-[![Watch Dark World](https://img.shields.io/badge/Download-Dark%20World-blue?style=for-the-badge&logo=download)](https://youtu.be/IO2b0cJ0lwM?si=27Ice1O6lIkdxLCP)
+[![Watch Dark World](https://img.shields.io/badge/Watch-Dark%20World-blue?style=for-the-badge&logo=View)](https://youtu.be/IO2b0cJ0lwM?si=27Ice1O6lIkdxLCP)
 
 
 ## 🎯 Key Features
