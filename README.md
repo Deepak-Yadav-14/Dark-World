@@ -1,3 +1,5 @@
+[![Dark World](https://youtu.be/IO2b0cJ0lwM?si=27Ice1O6lIkdxLCP)
+
 # Dark World 🌑
 
 A unique 2D platformer adventure where light battles darkness through innovative mechanics and challenging puzzles.
@@ -5,6 +7,11 @@ A unique 2D platformer adventure where light battles darkness through innovative
 ## 🎮 Game Overview
 
 In **Dark World**, darkness has consumed the world, and you play as **Lumine**, a brave character on a mission to restore light to the realm. Navigate through challenging levels using unique mechanics, solve intricate puzzles, and face the ultimate challenge - a fearsome dragon boss!
+
+## 🎮 Game Demo
+
+[![Watch Dark World](https://youtu.be/IO2b0cJ0lwM?si=27Ice1O6lIkdxLCP)
+
 
 ## 🎯 Key Features
 
@@ -15,16 +22,6 @@ In **Dark World**, darkness has consumed the world, and you play as **Lumine**, 
 - **Epic Boss Battle**: Face off against a powerful dragon in an intense final confrontation
 - **Puzzle-Driven Gameplay**: Use your floor-placing ability to overcome obstacles and reach new areas
 
-## 📸 Screenshots & Demo
-
-### Game Screenshots
-*[Add your game screenshots here showing different levels, mechanics, and gameplay moments]*
-
-### Gameplay Demo Video
-*[Embed your gameplay demo video here showing the core mechanics and boss fight]*
-
-### Mechanics Showcase
-*[Add screenshots or GIFs demonstrating the floor placement mechanic and combat system]*
 
 ## 🎯 How to Play
 
