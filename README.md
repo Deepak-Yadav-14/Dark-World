@@ -1,4 +1,4 @@
-[![Dark World](https://youtu.be/IO2b0cJ0lwM?si=27Ice1O6lIkdxLCP)
+[![Dark World](https://github.com/Deepak-Yadav-14/Dark-World/blob/main/DarkWorld.jpg)
 
 # Dark World 🌑
 
