@@ -8,9 +8,9 @@ A unique 2D platformer adventure where light battles darkness through innovative
 
 In **Dark World**, darkness has consumed the world, and you play as **Lumine**, a brave character on a mission to restore light to the realm. Navigate through challenging levels using unique mechanics, solve intricate puzzles, and face the ultimate challenge - a fearsome dragon boss!
 
-## 🎮 Game Demo
+## 🎮 Game Demo Youtube
 
-[![Watch Dark World](https://youtu.be/IO2b0cJ0lwM?si=27Ice1O6lIkdxLCP)
+[![Watch Dark World](https://img.shields.io/badge/Download-Dark%20World-blue?style=for-the-badge&logo=download)](https://youtu.be/IO2b0cJ0lwM?si=27Ice1O6lIkdxLCP)
 
 
 ## 🎯 Key Features
